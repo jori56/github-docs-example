@@ -34,7 +34,7 @@ This is not a quote
 ---
 Image syntax !()[]
 
-![Cloud Cheat sheets](assets/Cloud Cheat sheets.PNG)
+![Cloud Cheat sheets](assets/Cheasheets.PNG)
 
 
 Resize Image
