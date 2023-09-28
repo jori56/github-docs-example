@@ -27,5 +27,15 @@ rtt min/avg/max/mdev = 241.152/241.179/241.245/0.038 ms
 ```
 
 ---
-Images
+
+This is not a quote
+> This is a quote
+
+---
+Image syntax !()[]
+!(Cloud Cheat Sheet)[![Cloud Cheat sheets](https://github.com/jori56/github-docs-example/assets/67636740/1b77629c-932c-457a-8ea0-0d85d5f244dc)]
+
+Resize Image
+<img width="200px" src="![inflation](https://github.com/jori56/github-docs-example/assets/67636740/43a85a65-5724-4cfb-9ddd-5f1cf37cc081)
+"/>
 
