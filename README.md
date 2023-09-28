@@ -62,6 +62,7 @@ Sample of emojis
 - 🇵🇭
 - ⚠️
 
+
 | Name | Syntax | Emoji |
 | --- | --- | --- |
 | Cloud | `:cloud` | ☁️ |
