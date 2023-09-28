@@ -38,7 +38,7 @@ Image syntax !()[]
 
 
 Resize Image
-<img width="200px" src="https://github.com/jori56/github-docs-example/assets/67636740/43a85a65-5724-4cfb-9ddd-5f1cf37cc081" />
+<img width="200px" src="assets/inflation.PNG" />
 
 ---
 
