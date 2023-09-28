@@ -34,7 +34,7 @@ This is not a quote
 ---
 Image syntax !()[]
 
-![Cloud Cheat sheets](https://github.com/jori56/github-docs-example/assets/67636740/e876dd53-d246-45e0-969e-126249cf0487)
+![Cloud Cheat sheets](assets/Cloud Cheat sheets.PNG)
 
 
 Resize Image
