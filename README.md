@@ -34,9 +34,42 @@ This is not a quote
 ---
 Image syntax !()[]
 
-!(Cloud Cheat Sheet)[![Cloud Cheat sheets](https://github.com/jori56/github-docs-example/assets/67636740/1b77629c-932c-457a-8ea0-0d85d5f244dc)]
+![Cloud Cheat sheets](https://github.com/jori56/github-docs-example/assets/67636740/e876dd53-d246-45e0-969e-126249cf0487)
+
 
 Resize Image
 <img width="200px" src="https://github.com/jori56/github-docs-example/assets/67636740/43a85a65-5724-4cfb-9ddd-5f1cf37cc081" />
+
+---
+
+Links and References
+
+- https://mem.ai/m/YmNh1nMR5Htq8amF7aHD
+- [Captain Obvious](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lokad.com%2Fblog%2F2021%2F2%2F23%2Fthe-adventures-of-captain-obvious-in-supply-chain%2F&psig=AOvVaw16vkNzPhmiBhYJaq3LBCE6&ust=1695952895099000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDA7ICbzIEDFQAAAAAdAAAAABAE)<sup>1<sup/>
+
+---
+
+List wherein you can check off items
+- [x] A. Click
+- [ ] B. Don't tick
+- [x] C. It depends
+
+
+---
+
+Sample of emojis
+- 😄
+- 🇵🇭
+- ⚠️
+
+| Name | Syntax | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud` | ☁️ |
+| Apple | `:apple` | 🍎 |
+
+
+
+---
+
 
 
